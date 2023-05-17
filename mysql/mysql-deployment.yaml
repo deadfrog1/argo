@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
         - image: mysql:latest
-        name: mysql
+          name: mysql
